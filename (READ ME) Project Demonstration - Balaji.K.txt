@@ -1,0 +1,58 @@
+         Hello, Myself Balaji.K.
+
+Tools : VSCode.
+
+1) I completed this project within the stipulated given time. I hereby provide detailed information regarding project.
+
+2) I created Folder Called Weather-App. In that, i created two directories, One for Frontend and One for Backend. The Project structure looks like:
+
+      Weather-App--
+                  |
+                  |
+                  |--- Backend ---> server.js
+                  |
+                  |--- Frontend ---> weather-app ----> src ----> App.vue
+		   
+
+3) In Backend, I created a file called Server.js, Inside i added necessary required codes and created Backend Server. API Key need to be added. I just gave blank to add.
+
+4) Backend execution to start Server - node Server.js
+
+5) Frontend I used Vue.js, Here i used SFC i.e Single File Component. i had not added any too much of components. For now i preferred to keep it simple. 
+
+   *) Installed Axios using NPM and Font Awesome for icons and Bootstrap to make elements attractive.
+ 
+   *) Used Internal CSS.
+
+6) Once Backend Server is Running - Frontend part need to be executed using "npm run serve". Flow of Project as follows:
+
+   From Backend Server ----> Server.js ----> From API Key ----> Weather info (info fetched from api) -----> Passing to ------> Frontend ------> Result will be Visible in Screen.
+
+   but i had created frontend in Static not dynamic, The values in frontend which i hardcoded. Main intention is to focus on Frontend Design part.
+
+7) To make it responsive according to Mobile, Tablet etc. I added MediaQuery in same doc. 
+
+That's it.
+
+-------------------------------------------
+
+what all can be done.
+
+1) Mouse hover on container. When i hover my mouse on container, the container will get zoom in little with smooth transition. 
+
+2) While hovering on buttons or search bar. background color fill from left to right with smooth transition.
+
+3) background rain video with very low opacity looks attractive.
+
+4) Icons shrinking whenever mouse hovers on Icons.
+
+5) Popping out Icons if there is heavy rain forecast in current time.
+
+These are more ideas which all can be added to make website/app more cool and attractive. The time alloted for me was ended. Thank you for this opportunity.
+
+
+Thank you,
+Balaji.K
+
+
+
